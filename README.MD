@@ -6,15 +6,15 @@ and automation examples/
 
 ## Structure
 
-[Issues](/issues) / Logged bugs(with severity,priority and enviroment details)
-Manual test cases / MArkdown examples of sctuctured test documentation
-Automation/ Planned test automation using `Cypress` and `Playwright`
-Notes / Study notes and ISTQB concepts
+[Issues](../../issues) | Logged bugs(with severity,priority and enviroment details)
+Manual test cases | MArkdown examples of sctuctured test documentation
+Automation  | Planned test automation using `Cypress` and `Playwright`
+Notes | Study notes and ISTQB concepts
 
 
 ## Example Issue
 **UI issue:** Product description not displayed in English on product page  
-[View it in Issues tab](/issues/1)
+[View it in Issues tab](../../issues/1)
 
 
 ###  Tools
