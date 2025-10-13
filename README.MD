@@ -4,6 +4,8 @@ This repository showcases my QA practice work — including **manual test cases*
 
 ## Structure
 
+| Section | Description |
+|----------|--------------|
 |  [Issues](../../issues) | Logged bugs (with severity, priority, and environment details) |
 |  Manual Test Cases | Markdown examples of structured test documentation |
 |  Automation | Planned test automation using **Cypress** and **Playwright** |
