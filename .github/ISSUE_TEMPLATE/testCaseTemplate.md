@@ -28,5 +28,4 @@ Describe the goal of this test — what it verifies or validates.
 ## Expected Result
 Describe the expected behavior or output after executing the steps.
 
-## Priority
-P1 - High
+
