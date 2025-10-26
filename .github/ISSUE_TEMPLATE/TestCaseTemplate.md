@@ -1,4 +1,9 @@
-# Test Case
+---
+name: "Test Case"
+about: "Create a new test case with clear steps and expected results."
+title: "[TC] <short title>"
+labels: ["test-case"]
+---
 
 ## Test Case ID
 TC-001
