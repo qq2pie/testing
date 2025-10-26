@@ -1,8 +1,8 @@
 ---
 name: "Bug Report"
 about: "Document a new issue"
-title: "[Test] <Your test case title>"
-labels: ["test-case"]
+title: "[BUG] <Your bug title>"
+labels: ["issue"]
 assignees: ""
 ---
 
