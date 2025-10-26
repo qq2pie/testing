@@ -6,7 +6,7 @@ labels: ["test-case"]
 ---
 
 ## Test Case ID
-TC-001
+TC-000
 
 ## Title
 Verify that [function or feature] works as intended
